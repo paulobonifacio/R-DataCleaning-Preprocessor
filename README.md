@@ -32,3 +32,13 @@ The program:
 │── salary_before.png
 │── salary_after.png
 │── README.md
+
+---
+
+## How to Run
+
+### Run with Rscript (Terminal)
+```bash
+cd ~/Downloads/R-DataCleaning-Preprocessor
+Rscript final.R
+
